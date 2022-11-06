@@ -1,0 +1,5 @@
+tài khoản admin : admin 123456
+Hãy tạo database tên là computer_store
+Sau đó import file database vào
+computer-store-server-admin
+NY7V5C151306C7MR$
